@@ -16,6 +16,8 @@ Features:
 2. test2
     a. wifi
     b. usb
+    
+    adding a pragraph
 
 
 .. toctree::
@@ -24,3 +26,4 @@ Features:
 
    Tutorial <trial>
    
+  
